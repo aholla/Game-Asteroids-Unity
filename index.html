@@ -21,8 +21,8 @@
   // connect to canvas
   var Module = {
     TOTAL_MEMORY: 268435456,
-    filePackagePrefixURL: "Release/",
-    memoryInitializerPrefixURL: "Release/",
+    filePackagePrefixURL: "Asteroids/Bin/webgl/Release/",
+    memoryInitializerPrefixURL: "Asteroids/Bin/webgl/Release/",
     preRun: [],
     postRun: [],
     print: (function() {
@@ -67,7 +67,7 @@
   document.body.appendChild(script);
 } else {
   var codeXHR = new XMLHttpRequest();
-  codeXHR.open('GET', 'Release/webgl.js', true);
+  codeXHR.open('GET', 'Asteroids/Bin/webgl/Release/webgl.js', true);
   codeXHR.onload = function() {
     var code = codeXHR.responseText;
     if (!Math.fround) { 
