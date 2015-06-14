@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: f9f32fdb4bc7744849a33427aedb8702
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: SimpleAvatarBody.048
+    4300002: SimpleAvatarBody.047
+    4300004: SimpleAvatarBody.046
+    4300006: SimpleAvatarBodyRim
+    4300008: SimpleAvatarBody.043
+    4300010: SimpleAvatarBody.042
+    4300012: SimpleAvatarBody.041
+    4300014: SimpleAvatarBody.040
+    4300016: SimpleAvatarBody.039
+    4300018: SimpleAvatarBody.038
+    4300020: SimpleAvatarBody.037
+    4300022: SimpleAvatarBody.036
+    4300024: SimpleAvatarBody.035
+    4300026: SimpleAvatarBody.034
+    4300028: SimpleAvatarBody.033
+    4300030: SimpleAvatarBody.032
+    4300032: SimpleAvatarBody.031
+    4300034: SimpleAvatarBody.030
+    4300036: SimpleAvatarBody.029
+    4300038: SimpleAvatarBody.028
+    4300040: SimpleAvatarBody.027
+    4300042: SimpleAvatarBody.026
+    4300044: SimpleAvatarBody.025
+    4300046: SimpleAvatarBody.024
+    4300048: SimpleAvatarBody.023
+    4300050: SimpleAvatarBody.022
+    4300052: SimpleAvatarBody.021
+    4300054: SimpleAvatarBody.020
+    4300056: SimpleAvatarBody.019
+    4300058: SimpleAvatarBody.018
+    4300060: SimpleAvatarBody.017
+    4300062: SimpleAvatarBody.016
+    4300064: SimpleAvatarBody.015
+    4300066: SimpleAvatarBody.014
+    4300068: SimpleAvatarBody.013
+    4300070: SimpleAvatarBody.012
+    4300072: SimpleAvatarBody.011
+    4300074: SimpleAvatarBody.010
+    4300076: SimpleAvatarBody.009
+    4300078: SimpleAvatarBody.008
+    4300080: SimpleAvatarBody.007
+    4300082: SimpleAvatarBody.006
+    4300084: SimpleAvatarBody.005
+    4300086: SimpleAvatarBody.004
+    4300088: SimpleAvatarBody.003
+    4300090: SimpleAvatarBody.002
+    4300092: SimpleAvatarBody.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: atlas.png (1024 x 1024)
+# $TexturePacker:SmartUpdate:c23007d756954d85db506222abfce1d7:b245cfee8e1b751fdc0e68b041840add:aaf3b3bb8b9a1d3e562204b4a449ffc5$
+#
+
+bg_light;2;422;960;600;0.5;0.5
+explosion_01;964;928;54;50;0.5;0.5
+explosion_02;84;138;70;84;0.5;0.5
+explosion_03;2;134;80;88;0.5;0.5
+explosion_04;105;79;70;57;0.5;0.49122807017543857
+explosion_05;105;28;62;49;0.5;0.4897959183673469
+laser;1011;853;7;44;0.42857142857142855;0.5
+meteorBrown_big1;2;48;101;84;0.5;0.5
+meteorBrown_big2;2;322;120;98;0.5;0.5
+meteorBrown_big3;102;238;89;82;0.5;0.5
+meteorBrown_big4;2;224;98;96;0.5;0.5
+meteorBrown_med1;964;841;43;43;0.5;0.5
+meteorBrown_med3;964;886;45;40;0.5;0.5
+meteorBrown_small1;964;755;28;28;0.5;0.5
+meteorBrown_small2;964;785;29;26;0.5;0.5
+meteorBrown_tiny1;999;821;18;18;0.5;0.5
+meteorBrown_tiny2;999;804;16;15;0.5;0.5
+player_life;964;813;33;26;0.5;0.5
+player_ship;964;980;55;42;0.4909090909090909;0.5
+shield;124;355;79;65;0.4936708860759494;0.49230769230769234
+thruster;1011;899;11;27;0.45454545454545453;0.4814814814814815

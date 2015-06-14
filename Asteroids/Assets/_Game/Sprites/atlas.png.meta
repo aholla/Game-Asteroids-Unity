@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: dc546a6cc4e911c4e97efcab907cd3b6
+timeCreated: 1434149411
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bg_light
+    21300002: explosion_01
+    21300004: explosion_02
+    21300006: explosion_03
+    21300008: explosion_04
+    21300010: explosion_05
+    21300012: laser
+    21300014: meteorBrown_big1
+    21300016: meteorBrown_big2
+    21300018: meteorBrown_big3
+    21300020: meteorBrown_big4
+    21300022: meteorBrown_med1
+    21300024: meteorBrown_med3
+    21300026: meteorBrown_small1
+    21300028: meteorBrown_small2
+    21300030: meteorBrown_tiny1
+    21300032: meteorBrown_tiny2
+    21300034: player_life
+    21300036: player_ship
+    21300038: shield
+    21300040: thruster
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bg_light
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 960
+        height: 600
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_01
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 928
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_02
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 138
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_03
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 134
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_04
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79
+        width: 70
+        height: 57
+      alignment: 9
+      pivot: {x: .5, y: .491228074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion_05
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 62
+        height: 49
+      alignment: 9
+      pivot: {x: .5, y: .489795923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laser
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 853
+        width: 7
+        height: 44
+      alignment: 9
+      pivot: {x: .428571433, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_big1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_big2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_big3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 238
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_big4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_med1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 841
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_med3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 886
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_small1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 755
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_small2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 785
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_tiny1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 821
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: meteorBrown_tiny2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 804
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_life
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 813
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_ship
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 980
+        width: 55
+        height: 42
+      alignment: 9
+      pivot: {x: .4909091, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shield
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 355
+        width: 79
+        height: 65
+      alignment: 9
+      pivot: {x: .493670881, y: .492307693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thruster
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 899
+        width: 11
+        height: 27
+      alignment: 9
+      pivot: {x: .454545468, y: .481481493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
