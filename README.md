@@ -1,9 +1,11 @@
 # Asteroids
 
-An Asteroids game built in Unity.
+An simple game of Asteroids built in Unity 5.1.
 
--Space to Fire.
--WASD or Arrows to Move.
+Controls:
+- Space to Fire.
+- WASD or Arrows to Move.
+
 
 Play here: http://aholla.github.io/Game-Asteroids-Unity/ (WebGL)
 
