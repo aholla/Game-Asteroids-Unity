@@ -2,8 +2,8 @@
 
 An Asteroids game built in Unity.
 
-Space to Fire.
-WASD or Arrows to Move.
+-Space to Fire.
+-WASD or Arrows to Move.
 
 Play here: http://aholla.github.io/Game-Asteroids-Unity/ (WebGL)
 
