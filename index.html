@@ -1,3 +1,7 @@
+<iframe id="iframe" src="Asteroids/Bin/webgl/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+Your browser doesn't support iframes
+</iframe>
+
 <script>
 document.addEventListener("keydown", function(e) {
     e.preventDefault();
@@ -11,8 +15,7 @@ window.parent.addEventListener("keydown", function(e) {
     e.preventDefault();
 }, false);
 
-</script>
+var myIframe = document.getElementById('iframe');
+myIframe.focus();
 
-<iframe src="Asteroids/Bin/webgl/index.html" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
-Your browser doesn't support iframes
-</iframe>
+</script>
